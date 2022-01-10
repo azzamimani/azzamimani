@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azzamimani
+- 👋 Hi, I’m Azzam Firyal Imani | @azzamimani
 - 👀 I’m interested in Mobile Programming Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Laravel
 - Self-Taught Learner
 
 <!---
