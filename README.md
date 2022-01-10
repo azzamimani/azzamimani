@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @azzamimani
 - 👀 I’m interested in Mobile Programming Development
 - 🌱 I’m currently learning Flutter
+- Self-Taught Learner
 
 <!---
 azzamimani/azzamimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
